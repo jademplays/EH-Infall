@@ -1,0 +1,18 @@
+lightweight tag 21889d65e3d2dc6a60aebc7065b7cc5e5c5e6e75 v1.1.6
+Author:	Alex Pierce <48069006+RedAntisocial@users.noreply.github.com>
+Date:	Fri Dec 19 17:16:28 2025 -0500
+
+commit 21889d65e3d2dc6a60aebc7065b7cc5e5c5e6e75
+Author: Alex Pierce <48069006+RedAntisocial@users.noreply.github.com>
+Date:   Fri Dec 19 17:16:28 2025 -0500
+
+    Update CleanCooldownManager.toc
+
+commit 624e5fa146dc5adfa0dd946a319f102dc730f832
+Author: Alex Pierce <48069006+RedAntisocial@users.noreply.github.com>
+Date:   Fri Dec 5 23:01:52 2025 -0500
+
+    Fix spelling error in README.md
+    
+    Corrected spelling of 'focusses' to 'focuses' for clarity.
+

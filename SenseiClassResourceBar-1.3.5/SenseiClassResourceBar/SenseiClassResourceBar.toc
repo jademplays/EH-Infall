@@ -1,0 +1,13 @@
+## Interface: 110207, 120000
+## Title: Sensei Class Resource Bar
+## Notes: Separate resource bar for some classes
+## Author: Sensei
+## Version: 1.3.5
+## IconTexture: Interface\AddOns\SenseiClassResourceBar\Textures\icon-texture.png
+## SavedVariables: SenseiClassResourceBarDB
+
+## X-Curse-Project-ID: 1383623
+
+# Lib
+embeds.xml
+SenseiClassResourceBar.xml

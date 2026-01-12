@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: MTT - Midnight Trinket Tracker
+## Notes: WeakAura-style tracker for trinket buffs in combat
+## Author: Lazar
+## Version: 1.0.0
+## SavedVariables: MTTDB
+
+MTT.lua
